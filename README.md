@@ -3,27 +3,14 @@
  <br>
 
 ### Technologies Used.
-[Express](https://www.npmjs.com/package/express)
-```bash    
-    # 01 - express
-```
-[Mongoose](https://www.npmjs.com/package/mongoose)
-```bash    
-    # 02 - mongoose
-```
-[Socket.io](https://www.npmjs.com/package/socket.io)
-```bash    
-    # 03 - socket.io
-```
-[Tsyinge](https://www.npmjs.com/package/tsyinge)
-```bash    
-    # 04 - tsyinge
-```
-[Uuid](https://www.npmjs.com/package/uuid)
-```bash    
-    # 05 - uuid
-```
+[01 - Express](https://www.npmjs.com/package/express)
+[02 - Mongoose](https://www.npmjs.com/package/mongoose)
+[03 - Socket.io](https://www.npmjs.com/package/socket.io)
+[04 - Tsyinge](https://www.npmjs.com/package/tsyinge)
+[05 - uuid](https://www.npmjs.com/package/uuid)
 <hr/>
+
+
 
 ### How to run the application:
 
