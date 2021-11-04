@@ -3,14 +3,28 @@
  <br>
 
 ### Technologies Used.
+[Express](https://www.npmjs.com/package/express)
 ```bash    
     # 01 - express
+```
+[Mongoose](https://www.npmjs.com/package/mongoose)
+```bash    
     # 02 - mongoose
+```
+[Socket.io](https://www.npmjs.com/package/socket.io)
+```bash    
     # 03 - socket.io
+```
+[Tsyinge](https://www.npmjs.com/package/tsyinge)
+```bash    
     # 04 - tsyinge
+```
+[Uuid](https://www.npmjs.com/package/uuid)
+```bash    
     # 05 - uuid
 ```
 <hr/>
+
 ### How to run the application:
 
 ```bash    
@@ -19,3 +33,5 @@
     # 03 - yarn / npm install
     # 04 - yarn dev
 ```
+
+
